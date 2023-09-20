@@ -11,4 +11,6 @@ Terceiro passo: no terminal de comando, digite o comando: node index.js para abr
 
 Quarto passo: abra o navegador e digite: localhost:8029 (para iniciar o servidor nodejs) e pronto!
 
+*As frameworks utilizadas para esta atividade foram o Github, o nodejs e o comando nano.
+
 Feito por: Ana Julia Ferreira.
